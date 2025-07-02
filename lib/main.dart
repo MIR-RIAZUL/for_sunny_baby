@@ -250,7 +250,6 @@ class _HomePageState extends State<HomePage> {
       ),
     );
   }
-
   Widget _buildPromoBanner(String title, String subtitle, String imageUrl) {
     return Container(
       margin: const EdgeInsets.all(8),
